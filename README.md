@@ -4,7 +4,7 @@
   <a href="./README.md">中文</a>
 </p>
 
-resetCss 给它 打包成一个包
+resetCss 给它 打包成npm 直接引入
 </div>
 
 
