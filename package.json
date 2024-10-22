@@ -1,6 +1,6 @@
 {
   "name": "globalreset",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "This is an initial CSS style.",
   "main": "reset.css",
   "scripts": {
