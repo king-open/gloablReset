@@ -1,12 +1,11 @@
 {
   "name": "globalreset",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "version": "0.0.1",
+  "description": "This is an initial CSS style.",
+  "main": "reset.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "jackwang",
+  "license": "MIT"
 }
